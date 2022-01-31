@@ -1,0 +1,81 @@
+body{
+    background-image: url("photosambiance/salade bar sommaire.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.logo{
+    width: 35%;
+    margin: auto;
+    display: block;
+}
+#grid{
+    margin:auto;
+}
+#imagebutton{
+    margin-top: 5%;
+    margin-left: -3%;
+    width: 104%;
+}
+.text{
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+
+    margin-left: 37%;
+    margin-top: 3%;
+    margin-bottom: -5%;
+    width: 26%;
+    font-family: "Times New Roman";
+    text-align: center;
+    font-size: large;
+    position: relative;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+  
+
+#connect{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: white;
+    margin-top: 2%;
+    width: 82%;
+    margin-left: 8.5%;
+}
+#butto2{
+    margin-top: 1%;
+    margin-left: 7%;
+    width: 25%; 
+    margin-bottom: 2%;
+}
+.form-label{
+    background-color: white;
+}
+#nav{
+    position: absolute;
+    margin-top:3% ;
+    margin-left: 60%;
+    width: 30%;
+}
+.bar{
+    z-index: -1;
+    position: absolute;
+    width: 300vh;
+    height: 23%;
+    background-color: rgb(74, 156, 161);
+    border-bottom: 2px solid;
+    border-color: black;
+    opacity: 95%;
+}
+#uptext{
+    background-color: black;
+    color: white;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}

@@ -1,0 +1,53 @@
+/*Fotolia_59627880_Subscription_Monthly_MD.jpg*/
+body{
+    background-image: url("photosambiance/salade bar sommaire.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.logo{
+    width: 35%;
+    margin: auto;
+    display: block;
+}
+#con{
+    margin-top: 4%;
+    margin-left: 6.5%;
+    width: 25%;
+}
+#butto{
+    margin-top: 6.5%;
+    margin-left: 33%;
+    width: 25%; 
+}
+#butto2{
+    margin-top: -4.5%;
+    margin-left: 60%;
+    width: 25%; 
+}
+.form-label{
+    background-color: white;
+}
+#nav{
+    position: absolute;
+    margin-top: -43%;
+    margin-left: 59.5%;
+    width: 30%;
+}
+.bar{
+    z-index: -1;
+    position: absolute;
+    width: 300vh;
+    height: 23%;
+    background-color: rgb(74, 156, 161);
+    border-bottom: 2px solid;
+    border-color: black;
+    opacity: 95%;
+}
+#uptext{
+    background-color: black;
+    color: white;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
